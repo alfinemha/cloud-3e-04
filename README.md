@@ -12,9 +12,9 @@
 
 |  |  |
 |--|--|
-| NIM | **contoh 123** |
-| Nama Lengkap | **contoh nama abc** |
-| Kelas | TI-3x |
+| NIM | 194170099 |
+| Nama Lengkap | Alfin Emha Afriman |
+| Kelas | TI-3E |
 
 
 ## Struktur Folder
@@ -33,4 +33,4 @@ Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektua
 
 Ttd,
 
-***(nama lengkap Anda xyz)***
+***(Alfin Emha Afriman)***
