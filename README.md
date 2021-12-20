@@ -12,7 +12,7 @@
 
 |  |  |
 |--|--|
-| NIM | 194170099 |
+| NIM | 194170098 |
 | Nama Lengkap | Alfin Emha Afriman |
 | Kelas | TI-3E |
 
